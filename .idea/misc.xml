@@ -1,0 +1,35 @@
+<project version="4">
+  <component name="EntryPointsManager">
+    <writeAnnotations>
+      <writeAnnotation name="Setter" />
+      <writeAnnotation name="Getter" />
+    </writeAnnotations>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/demo" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/consumers-producers/pom.xml" />
+        <option value="$PROJECT_DIR$/consumer/cosumer-transacitional/pom.xml" />
+        <option value="$PROJECT_DIR$/spring/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/consumer/consumer-multi-thread/pom.xml" />
+        <option value="$PROJECT_DIR$/consumer/consumer-transactional/pom.xml" />
+        <option value="$PROJECT_DIR$/consumers-producers/consumers/pom.xml" />
+        <option value="$PROJECT_DIR$/consumers-producers/pom.xml" />
+        <option value="$PROJECT_DIR$/consumers-producers/transactional/pom.xml" />
+        <option value="$PROJECT_DIR$/producers/producer-transactional/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="zulu-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
